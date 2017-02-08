@@ -1,0 +1,10 @@
+com       
+ccg
+chunking
+fnt
+gpos
+hyperlinks  
+keysem17
+mwe
+streusle
+semcor  
